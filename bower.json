@@ -1,0 +1,33 @@
+{
+  "name": "webprogramming",
+  "main": "app.js",
+  "version": "0.0.0",
+  "authors": [
+    "Rafael Antonio Lucio <rafaelantoniolucio@gmail.com>"
+  ],
+  "description": "Webprogramming Blog by Rafael Antonio Lucio",
+  "keywords": [
+    "web",
+    "programming",
+    "rafael",
+    "antonio",
+    "lucio",
+    "rafaellucio",
+    "webprogramming"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.2",
+    "angular-cookies": "~1.4.2",
+    "angular-ui-router": "~0.2.15",
+    "restangular": "~1.5.1"
+  }
+}
